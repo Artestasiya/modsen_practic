@@ -1,0 +1,15 @@
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\bin\Debug\net8.0\Crocodile.exe
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\bin\Debug\net8.0\Crocodile.deps.json
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\bin\Debug\net8.0\Crocodile.runtimeconfig.json
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\bin\Debug\net8.0\Crocodile.dll
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\bin\Debug\net8.0\Crocodile.pdb
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.GeneratedMSBuildEditorConfig.editorconfig
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.AssemblyInfoInputs.cache
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.AssemblyInfo.cs
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.csproj.CoreCompileInputs.cache
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.sourcelink.json
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.dll
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\refint\Crocodile.dll
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.pdb
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\Crocodile.genruntimeconfig.cache
+E:\modsen\Fundamentals of C# Working with objects\Crocodile\obj\Debug\net8.0\ref\Crocodile.dll
